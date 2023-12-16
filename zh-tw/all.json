@@ -19,11 +19,15 @@
     "ACCOUNT": {
       "PROFILE_TITLE": "個人資訊",
       "MY_PROFILE": "我的個人資訊",
+      "PROFILE": {
+        "KEYWORDS": "使用者資料"
+      },
       "IMPORT_EXPORT_TITLE": "匯入與導出",
       "EXPORT_IMPORT": {
         "KEYWORDS": "輸出備份 輸出至 Roam Dynalist Logseq Notion Evernote Obsidian"
       },
       "NAVIGATION_TITLE": "導覽欄",
+      "AUTHENTICATION_TITLE": "認證與授權",
       "AUTHENTICATION": {
         "KEYWORDS": "登出 登出 Google 登入方式 加入 離線 登入 註冊"
       },
@@ -31,6 +35,10 @@
       "DANGER_ZONE_TITLE": "危險區域",
       "DANGER_ZONE": {
         "TITLE": "危險區域"
+      },
+      "NOTIFICATIONS": {
+        "TITLE": "行動裝置通知推送",
+        "DESCRIPTION": "發送有關您每日抽認卡連續記錄的行動推播提醒。這個提醒會在您當地時區的每天下午 6 點發送。"
       },
       "SYNCING": {
         "TITLE": "同步中",
@@ -44,7 +52,8 @@
         "TITLE": "取得支援"
       },
       "PRIVACY": {
-        "TITLE": "隱私"
+        "TITLE": "隱私",
+        "KEYWORDS": "隱私"
       }
     },
     "FLASHCARDS": {
