@@ -23,7 +23,15 @@
       "EXPORT_IMPORT": {
         "KEYWORDS": "輸出備份 輸出至 Roam Dynalist Logseq Notion Evernote Obsidian"
       },
-      "NAVIGATION_TITLE": "導覽欄"
+      "NAVIGATION_TITLE": "導覽欄",
+      "AUTHENTICATION": {
+        "KEYWORDS": "登出 登出 Google 登入方式 加入 離線 登入 註冊"
+      },
+      "ADVANCED_TITLE": "進階設定",
+      "DANGER_ZONE_TITLE": "危險區域",
+      "DANGER_ZONE": {
+        "TITLE": "危險區域"
+      }
     }
   }
 }
