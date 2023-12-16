@@ -31,6 +31,108 @@
       "DANGER_ZONE_TITLE": "危險區域",
       "DANGER_ZONE": {
         "TITLE": "危險區域"
+      },
+      "SYNCING": {
+        "TITLE": "同步中",
+        "KEYWORDS": "強制同步圖片與 PDF"
+      },
+      "VERSION": {
+        "TITLE": "軟體版本",
+        "KEYWORDS": "版本"
+      },
+      "SUPPORT": {
+        "TITLE": "取得支援"
+      },
+      "PRIVACY": {
+        "TITLE": "隱私"
+      }
+    },
+    "FLASHCARDS": {
+      "DAILY_TARGET": {
+        "MAXIMUM_DAILY_TARGET": {
+          "TITLE": "最大每日目標"
+        },
+        "TODAYS_TARGET": "今日目標："
+      },
+      "GENERAL": {
+        "RESET_ALL": {
+          "TITLE": "重設所有卡片設定",
+          "DESCRIPTION": "將所有卡片的設定重設為初始值。",
+          "CONFIRM_MESSAGE": "確定要重置所有卡片的設定嗎？"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "每日最大新卡片數量"
+        },
+        "STALE_CARDS_PER_DAY": {
+          "TITLE": "每日最大逾期卡片數量"
+        },
+        "AUTOPLAY_MEDIA": {
+          "TITLE": "自動播放媒體"
+        },
+        "TYPE_ANSWER": {
+          "TITLE": "輸入答案"
+        },
+        "SIMPLIFIED_FLASHCARD_BUTTONS": {
+          "TITLE": "簡化卡片按鈕"
+        }
+      },
+      "VISUAL": {
+        "SHOW_NEXT_REVIEW_TIMES": {
+          "TITLE": "顯示下次複習時間"
+        }
+      },
+      "ORDERING": {
+        "DOCUMENT_CLUSTERS": {
+          "TITLE": "文件集合"
+        },
+        "REFERENCE_CLUSTERS": {
+          "TITLE": "引用集合"
+        },
+        "TAG_CLUSTERS": {
+          "TITLE": "標籤集合"
+        }
+      }
+    },
+    "EARN_CREDIT": {
+      "INVITE_TEXT": "邀請朋友並獲得 Credit",
+      "INVITE_EMAIL": "透過電子郵件邀請",
+      "INVITE": "邀請",
+      "COPIED": "已複製！",
+      "COPYLINK": "複製連結",
+      "FRIENDS_TITLE": "朋友"
+    },
+    "GLOBAL_INTERFACE": {
+      "DARK_MODE": {
+        "TITLE": "暗黑模式",
+        "LABEL": "使用此配色主題。"
+      },
+      "FULL_WIDTH": {
+        "TITLE": "全螢幕顯示",
+        "LABEL": "全螢幕顯示文件內容"
+      },
+      "SIMPLIFIED_UI": {
+        "TITLE": "簡化版 UI",
+        "LABEL": "簡化 UI 並隱藏進階功能。"
+      },
+      "INTERFACE": {
+        "KEYWORDS": "語言 語言 翻譯 i18n"
+      }
+    },
+    "SIDEBAR": {
+      "DOCUMENT_STATUSES": {
+        "TITLE": "文件狀態",
+        "LABEL": "將文件分為草稿、已完成和已釘選類別。"
+      },
+      "CUSTOMIZE_SIDEBAR_SECTIONS": {
+        "TITLE": "客製化側欄"
+      }
+    }
+  },
+  "TABLES": {
+    "MENUS": {
+      "TABLE_CONFIGURATION": {
+        "TABLE_CONFIGURATION_TITLE": "表格",
+        "LIST_CONFIGURATION_TITLE": "大綱"
       }
     }
   }
