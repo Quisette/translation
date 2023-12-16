@@ -75,6 +75,9 @@
         "STALE_CARDS_PER_DAY": {
           "TITLE": "每日最大逾期卡片數量"
         },
+        "LEECH_THRESHOLD": {
+          "TITLE": "Leech 卡片閾值"
+        },
         "AUTOPLAY_MEDIA": {
           "TITLE": "自動播放媒體"
         },
@@ -87,18 +90,25 @@
       },
       "VISUAL": {
         "SHOW_NEXT_REVIEW_TIMES": {
-          "TITLE": "顯示下次複習時間"
+          "TITLE": "顯示下次複習時間",
+          "DESCRIPTION": "在每個答案按鈕上顯示距離下次複習的時間。"
         }
       },
       "ORDERING": {
         "DOCUMENT_CLUSTERS": {
-          "TITLE": "文件集合"
+          "TITLE": "文件集合",
+          "DESCRIPTION": "偏好在連結的文件中練習 Rems。"
         },
         "REFERENCE_CLUSTERS": {
-          "TITLE": "引用集合"
+          "TITLE": "引用集合",
+          "DESCRIPTION": "偏好練習互相引用的 Rems。"
         },
         "TAG_CLUSTERS": {
-          "TITLE": "標籤集合"
+          "TITLE": "標籤集合",
+          "DESCRIPTION": "偏好練習帶有同樣標籤的 Rems。"
+        },
+        "HIERARCHY_CLUSTERS": {
+          "TITLE": "階層集合"
         }
       }
     },
