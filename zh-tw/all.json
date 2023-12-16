@@ -96,6 +96,7 @@
     "EARN_CREDIT": {
       "INVITE_TEXT": "邀請朋友並獲得 Credit",
       "INVITE_EMAIL": "透過電子郵件邀請",
+      "EMAIL_PLACEHOLDER": "curiousfriend@gmail.com",
       "INVITE": "邀請",
       "COPIED": "已複製！",
       "COPYLINK": "複製連結",
@@ -134,6 +135,12 @@
         "TABLE_CONFIGURATION_TITLE": "表格",
         "LIST_CONFIGURATION_TITLE": "大綱"
       }
+    }
+  },
+  "SOURCES": {
+    "UPLOAD_SOURCE": {
+      "PDF": "PDF",
+      "PDF_WITH_COUNT_one": "{{count, number}} 件 PDF"
     }
   }
 }
