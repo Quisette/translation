@@ -9,7 +9,8 @@
     "ne",
     "pt-br",
     "tr",
-    "vi"
+    "vi",
+    "zh-tw"
   ],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@4/dist/index.js",

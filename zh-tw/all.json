@@ -1,0 +1,29 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "語言",
+    "TRANSLATION_INFO_SETTINGS": "翻譯仍在進行中；您可能會看到英語和所選語言的混合。<br>您可以透過閱讀以下<guideLink>教學</guideLink>然後使用我們的<editorLink>網頁編輯器</editorLink>來幫助我們翻譯。"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "創建",
+      "REMOVE": "移除",
+      "DELETE": "刪除",
+      "EDIT": "編輯",
+      "DUPLICATE": "複製",
+      "APPLY": "適用",
+      "UPDATE": "更新",
+      "HIDE": "隱藏"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "個人資訊",
+      "MY_PROFILE": "我的個人資訊",
+      "IMPORT_EXPORT_TITLE": "匯入與導出",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "輸出備份 輸出至 Roam Dynalist Logseq Notion Evernote Obsidian"
+      },
+      "NAVIGATION_TITLE": "導覽欄"
+    }
+  }
+}
